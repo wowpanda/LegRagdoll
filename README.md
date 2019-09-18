@@ -4,13 +4,13 @@ If u shoot on someone’s leg, the person will fall and lay on the ground for ab
 
 [Installation]
 
-1. Download the file
+1. Download the file.
 
-2. Unpack it
+2. Unpack it.
 
-3. Place the map with __resource.lua and client.lua in your server/resource
+3. Place the map with __resource.lua and client.lua in your server/resource.
 
-4. Open server.cfg and put in “start legragdoll”
+4. Open server.cfg and put in “start LegRagdoll”.
 
 5. Done!
 ------------------------------------------------------------------------------------------------------------------------------------
